@@ -1,5 +1,6 @@
 from random import *
 
+
 # Deck Class
 class Deck:
   def __init__(self, CardArray):
